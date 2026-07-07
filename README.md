@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
@@ -14,3 +15,7 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the Oxlint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+=======
+# frontend-react-suby
+Food Vendor Clone Frontend built with React.js, featuring restaurant browsing, menu display, category filters, responsive UI, and seamless integration with a MERN backend.
+>>>>>>> 9cde837f01a6e74df794657c5842f3156b2c8c13
