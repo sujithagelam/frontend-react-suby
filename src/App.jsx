@@ -2,7 +2,7 @@ import React from "react";
 import LandingPage from "./suby/pages/LandingPage";
 import { Route, Routes } from "react-router-dom";
 import "./App.css";
-import ProductMenu from "./suby/components/productMenu";
+import ProductMenu from "./suby/components/ProductMenu";
 
 const App = () => {
   return (
